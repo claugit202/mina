@@ -1,3 +1,7 @@
+body{
+ margin: 0%;
+}
+
 .container{
  display: flex;
  justify-content: center;
@@ -22,8 +26,15 @@
     background-size: cover;
     justify-content: right;
     align-items: right;
+    margin: 0%;
 
-}
+    
+      }
+      
+      
+   
+
+
 
 h1{
     color: black;
@@ -68,7 +79,9 @@ h6{
     width: 1000px;
     height: 250px;
     margin-left: 0px;
-    
+
+   
+
    
 }
 
